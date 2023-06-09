@@ -3,5 +3,4 @@
 - 💞️ I’m looking to collaborate like developer anything I can! ;)
 - 📫 How to reach me? Email: guilhermebonald@gmail.com || Linkedin: https://www.linkedin.com/in/guilherme-bonald-1963a9143
 
-<br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebonald&theme=shades-of-purple&show_icons=true)
