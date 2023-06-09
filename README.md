@@ -8,7 +8,7 @@ guilhermebonald/guilhermebonald is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebonald&theme=shades-of-purple&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebonald&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebonald&hide_progress=true)
   ![Snake animation](https://github.com/guilhermebonald/guilhermebonald/blob/output/github-contribution-grid-snake.svg)
 
 
